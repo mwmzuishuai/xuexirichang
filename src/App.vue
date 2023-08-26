@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>明白</h1>
+    <h2>十九届</h2>
     <h2 v-for="i in list">{{ i }}</h2>
   </div>
 </template>
